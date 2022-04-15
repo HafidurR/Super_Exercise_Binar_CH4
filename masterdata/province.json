@@ -1,0 +1,240 @@
+[
+    {
+        "name": "BALI",
+        "province_id": 1,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "BANGKA BELITUNG",
+        "province_id": 2,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "BANTEN",
+        "province_id": 3,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "BENGKULU",
+        "province_id": 4,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "province_id": 5,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "DKI JAKARTA",
+        "province_id": 6,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "GORONTALO",
+        "province_id": 7,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "PAPUA BARAT",
+        "province_id": 8,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "JAMBI",
+        "province_id": 9,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "JAWA BARAT",
+        "province_id": 10,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "JAWA TENGAH",
+        "province_id": 11,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "JAWA TIMUR",
+        "province_id": 12,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "KALIMANTAN BARAT",
+        "province_id": 13,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "KALIMANTAN SELATAN",
+        "province_id": 14,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "KALIMANTAN TENGAH",
+        "province_id": 15,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "KALIMANTAN TIMUR",
+        "province_id": 16,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "KEPULAUAN RIAU",
+        "province_id": 17,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "LAMPUNG",
+        "province_id": 18,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "MALUKU",
+        "province_id": 19,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "MALUKU UTARA",
+        "province_id": 20,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "ACEH",
+        "province_id": 21,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "NUSA TENGGARA BARAT",
+        "province_id": 22,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "NUSA TENGGARA TIMUR",
+        "province_id": 23,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "PAPUA",
+        "province_id": 24,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "RIAU",
+        "province_id": 25,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SULAWESI BARAT",
+        "province_id": 26,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SULAWESI SELATAN",
+        "province_id": 27,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SULAWESI TENGAH",
+        "province_id": 28,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SULAWESI TENGGARA",
+        "province_id": 29,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SULAWESI UTARA",
+        "province_id": 30,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SUMATERA BARAT",
+        "province_id": 31,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SUMATERA SELATAN",
+        "province_id": 32,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "SUMATERA UTARA",
+        "province_id": 33,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    },
+    {
+        "name": "KALIMANTAN UTARA",
+        "province_id": 34,
+        "country_id": 1,
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    }
+]

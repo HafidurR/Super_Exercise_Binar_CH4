@@ -1,0 +1,10 @@
+[
+    {
+        "country_id": 1,
+        "name": "INDONESIA",
+        "country_code": "ID",
+        "phone_code": "+62",
+        "createdAt": "2019-06-01 00:00:00+07",
+        "updatedAt": "2019-06-01 00:00:00+07"
+    }
+]
